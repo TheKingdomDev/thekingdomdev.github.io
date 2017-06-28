@@ -1,0 +1,12 @@
+body {
+    background-image: url("images/Banner.jpg");
+    background-color: #cccccc;
+}
+
+.icons {
+	font-size: 34px;
+}
+
+.card-body {
+	font-size: 24px;
+}
