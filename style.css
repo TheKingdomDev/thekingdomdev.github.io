@@ -6,7 +6,19 @@ body {
 .icons {
 	font-size: 34px;
 }
-
+.header-5 {
+	color: black;
+}
 .card-body {
 	font-size: 24px;
+}
+.fa {
+	font-size: 54px;
+}
+.tech-icons {
+	font-size: 64px;
+	margin: 5px;
+}
+.card-title-tech {
+	font-size: 32px;
 }
